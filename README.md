@@ -1,4 +1,4 @@
--  Hi, I’m @riyad-96.
+-  Hi, I’m Riyad Hasan.
 -  I’m interested in learning things.
 -  I’m currently learning HTML, CSS & JavaScript
 
