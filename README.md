@@ -41,5 +41,11 @@
 * ✅ Published small npm utility called [zero-btn](https://www.npmjs.com/package/zero-btn)
 
 ---
+```javascript
+onquestion="about(this)"
 
+function about(person) {
+  person.speech = `On a quest to master my dev jutsu.`
+}
+```
 > “Consistency over perfection.” – Let’s keep building!
