@@ -1,3 +1,45 @@
-## Hi, I'm Riyad Hasan
--  I’m interested in exploring things.
--  Learning JavaScript right now.
+# It's Riyad
+
+🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
+💻 I love working with **JavaScript, React, TailwindCSS** to create clean, minimal, and useful apps.
+
+* ✅ Improving React and Firebase skills
+---
+
+### Gained some control over
+
+<p align="start">
+  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img title="SASS/SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>&nbsp;&nbsp;
+  <img title="Tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
+</p>
+
+### Learing
+
+<P>
+  <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>&nbsp;&nbsp;
+  <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>&nbsp;&nbsp;
+  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase"/>&nbsp;&nbsp;
+</p>
+
+### Targets
+
+<p>
+  <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS"/>&nbsp;&nbsp;
+  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>&nbsp;&nbsp;
+  <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+</p>
+
+---
+
+### ⚡ Current Experiments
+
+* ✅ Built [ZeroIDE](https://zero-ide.vercel.app/), a minimal in-browser code editor
+* ✅ Published small npm utility called [zero-btn](https://www.npmjs.com/package/zero-btn)
+
+---
+
+> “Consistency over perfection.” – Let’s keep building!
