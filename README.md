@@ -37,8 +37,8 @@
 
 ### ⚡ Current Experiments
 
-* ✅ Built [ZeroIDE](https://zero-ide.vercel.app/), a minimal in-browser code editor
-* ✅ Published small npm utility called [zero-btn](https://www.npmjs.com/package/zero-btn)
+* ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
+* ✅ Published small npm utility called <a title="zero-btn, light-weight usefull button utility" href="https://www.npmjs.com/package/zero-btn" target="_blank">zero-btn</a>.
 
 ---
 ```javascript
