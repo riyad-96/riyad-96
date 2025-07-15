@@ -41,11 +41,20 @@
 * ✅ Published small npm utility called <a title="zero-btn, light-weight usefull button utility" href="https://www.npmjs.com/package/zero-btn" target="_blank">zero-btn</a>.
 
 ---
-```javascript
-onquestion="about(this)"
+```jsx
+import { useEffect, useContext } from 'react';
+import { goalContext } from './contexts';
 
-function about(person) {
-  person.speech = `On a quest to master my dev jutsu.`
+function LevelUp() {
+  const { goal, setGoal } = useContext(goalContext);
+
+  useEffect(() => {
+    setGoal('Acquire React 👑');
+  }, [setGoal]);
+
+  return <p>Today's goal: {goal}</p>;
 }
+
+export default LevelUp;
 ```
 > “Consistency over perfection.” – Let’s keep building!
