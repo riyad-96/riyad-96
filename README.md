@@ -27,7 +27,6 @@
 ### Targets
 
 <p>
-  <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS"/>&nbsp;&nbsp;
   <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>&nbsp;&nbsp;
   <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
@@ -38,7 +37,7 @@
 ### ⚡ Current Experiments
 
 * ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
-* ✅ Published small npm utility called <a title="zero-btn, light-weight usefull button utility" href="https://www.npmjs.com/package/zero-btn" target="_blank">zero-btn</a>.
+* ✅ Published small npm utility called <a title="zero-kitzo, light-weight usefull button utility" href="https://www.npmjs.com/package/zero-kitzo" target="_blank">zero-kitzo</a>.
 
 ---
 ```jsx
