@@ -3,7 +3,7 @@
 🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
 💻 I love working with **JavaScript, React, TailwindCSS** to create clean, minimal, and useful apps.
 
-* ✅ Improving React and Firebase skills
+* ✅ Improving React skills
 ---
 
 ### Gained some control over
@@ -12,7 +12,6 @@
   <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>&nbsp;&nbsp;
   <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;
   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img title="SASS/SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>&nbsp;&nbsp;
   <img title="Tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
 </p>
 
