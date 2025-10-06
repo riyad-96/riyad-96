@@ -51,7 +51,7 @@ function LevelUp() {
 
   useEffect(() => {
     setGoal('Acquire React 👑');
-  }, [setGoal]);
+  }, []);
 
   return <p>Today's goal: {goal}</p>;
 }
