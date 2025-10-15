@@ -14,21 +14,21 @@
   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
   <img title="Tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
   <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>&nbsp;&nbsp;
+  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase"/>&nbsp;&nbsp;
 </p>
 
 ### Learing
 
 <P>
-  <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>&nbsp;&nbsp;
-  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase"/>&nbsp;&nbsp;
-  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>&nbsp;&nbsp;
+  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
+  <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>&nbsp;&nbsp;
+  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>&nbsp;&nbsp;
 </p>
 
 ### Targets
 
 <p>
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS"/>
 </p>
