@@ -42,20 +42,4 @@
 * ✅ Built <a title="KitzoBazar" href="https://kitzobazar.vercel.app" target="_blank">KitzoBazar</a>, bazar list calculator and session history can be saved in database.
 
 ---
-```jsx
-import { useEffect, useContext } from 'react';
-import { goalContext } from './contexts';
-
-function LevelUp() {
-  const { goal, setGoal } = useContext(goalContext);
-
-  useEffect(() => {
-    setGoal('Acquire React 👑');
-  }, []);
-
-  return <p>Today's goal: {goal}</p>;
-}
-
-export default LevelUp;
-```
 > “Consistency over perfection.” – Let’s keep building!
