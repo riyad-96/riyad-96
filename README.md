@@ -40,6 +40,3 @@
 * ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
 * ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>.
 * ✅ Built <a title="KitzoBazar" href="https://kitzobazar.vercel.app" target="_blank">KitzoBazar</a>, bazar list calculator and session history can be saved in database.
-
----
-> “Consistency over perfection.” – Let’s keep building!
