@@ -1,42 +1,70 @@
-# It's Riyad
+<h1 align="center">It's Riyad Hasan</h1>
+<h3 align="center">A Fullstack webdev (processing)</h3>
 
-🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
-💻 I love working with **JavaScript, React, TailwindCSS** to create clean, minimal, and useful apps.
+<p align="center" >🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
+💻 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
-* ✅ Improving React skills
+#### ⚡ On going
+
+- ✅ Diving deep into advance <strong>JavaScript</strong> concepts.
+- ✅ Improving <strong>React</strong> skills
+- ✅ Getting into custom authentication.
+
+#### ⚡ Current Experiments
+
+- ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>.
+- ✅ Built <a title="KitzoBazar" href="https://kitzobazar.vercel.app" target="_blank">KitzoBazar</a>, bazar list calculator and session history can be saved in database.
+- ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
+- 🕒 Working on a full-stack real time chat application.
+
 ---
 
 ### Gained some control over
 
-<p align="start">
-  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>&nbsp;&nbsp;
-  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>&nbsp;&nbsp;
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img title="Tailwindcss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
-  <img title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>&nbsp;&nbsp;
-  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase"/>&nbsp;&nbsp;
+<p>
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>&nbsp;&nbsp;
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
+  <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>&nbsp;&nbsp;
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>&nbsp;&nbsp;
 </p>
 
 ### Learing
 
 <P>
-  <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>&nbsp;&nbsp;
-  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>&nbsp;&nbsp;
-  <img title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>&nbsp;&nbsp;
+  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
+  <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
 </p>
 
 ### Targets
 
 <p>
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <!-- <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS"/> -->
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>&nbsp;&nbsp;
+  <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
 
 ---
 
-### ⚡ Current Experiments
+### Social
 
-* ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
-* ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>.
-* ✅ Built <a title="KitzoBazar" href="https://kitzobazar.vercel.app" target="_blank">KitzoBazar</a>, bazar list calculator and session history can be saved in database.
+<p>
+  <a href="https://facebook.com/riyadofficial.webdev">
+    <img title="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="40" alt="Facebook"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/riyadofficial-webdev">
+    <img title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+</picture>
