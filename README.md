@@ -21,7 +21,7 @@
 
 ### Gained some control over
 
-<p style="display: flex; gap: 0.5rem;">
+<p style="display: flex; gap: 1rem;">
   <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
   <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
   <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
@@ -32,7 +32,7 @@
 
 ### Learing
 
-<P style="display: flex; gap: 0.5rem;">
+<P style="display: flex; gap: 1rem;">
   <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>
   <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>
   <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>
@@ -41,7 +41,7 @@
 
 ### Targets
 
-<p style="display: flex; gap: 0.5rem;">
+<p style="display: flex; gap: 1rem;">
   <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
   <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
@@ -52,10 +52,10 @@
 
 <p style="display: flex; gap: 1rem">
   <a style="display: inline-block;" href="https://facebook.com/riyadofficial.webdev">
-    <img title="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="40" alt="Facebook"/>
+    <img style="display: block;" title="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="40" alt="Facebook"/>
   </a>
   <a style="display: inline-block;" href="https://linkedin.com/in/riyadofficial-webdev">
-    <img title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
+    <img style="display: block;" title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 
 ### Stats
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1rem;">
   <div style="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
