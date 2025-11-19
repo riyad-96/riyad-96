@@ -21,28 +21,28 @@
 
 ### Gained some control over
 
-<p>
-  <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>&nbsp;&nbsp;
-  <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>&nbsp;&nbsp;
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
-  <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>&nbsp;&nbsp;
-  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>&nbsp;&nbsp;
+<p style="display: flex; gap: 0.5rem;">
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>
+  <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
 </p>
 
 ### Learing
 
-<P>
-  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>&nbsp;&nbsp;
-  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
-  <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
+<P style="display: flex; gap: 0.5rem;">
+  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>
+  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>
+  <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
 </p>
 
 ### Targets
 
-<p>
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>&nbsp;&nbsp;
+<p style="display: flex; gap: 0.5rem;">
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
   <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
 
@@ -50,11 +50,11 @@
 
 ### Social
 
-<p>
-  <a href="https://facebook.com/riyadofficial.webdev">
+<p style="display: flex; gap: 1rem">
+  <a style="display: inline-block;" href="https://facebook.com/riyadofficial.webdev">
     <img title="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="40" alt="Facebook"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/riyadofficial-webdev">
+  </a>
+  <a style="display: inline-block;" href="https://linkedin.com/in/riyadofficial-webdev">
     <img title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
@@ -63,13 +63,19 @@
 
 ### Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-  <img width="420" height="160" src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-  <img width="420" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-</picture>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0.5rem;">
+  <div style="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+      <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+    </picture>
+  </div>  
+  <div style="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
+      <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
+    </picture>
+  </div>
+</div>
