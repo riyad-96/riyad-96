@@ -21,28 +21,28 @@
 
 ### Gained some control over
 
-<p style="display: flex; gap: 0.5rem;">
-  <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
-  <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
-  <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>
-  <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>
+<p style="display: flex;">
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>&nbsp;&nbsp;
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
+  <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>&nbsp;&nbsp;
   <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
 </p>
 
 ### Learing
 
-<P style="display: flex; gap: 0.5rem;">
-  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>
-  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>
-  <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>
+<P style="display: flex;">
+  <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>&nbsp;&nbsp;
+  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
+  <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
 </p>
 
 ### Targets
 
-<p style="display: flex; gap: 0.5rem;">
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+<p style="display: flex;">
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>&nbsp;&nbsp;
   <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
 
@@ -50,11 +50,11 @@
 
 ### Social
 
-<p style="display: flex; gap: 1rem">
-  <a style="display: inline-block;" href="https://facebook.com/riyadofficial.webdev">
+<p>
+  <a href="https://facebook.com/riyadofficial.webdev">
     <img title="Facebook" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" height="40" alt="Facebook"/>
-  </a>
-  <a style="display: inline-block;" href="https://linkedin.com/in/riyadofficial-webdev">
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/riyadofficial-webdev">
     <img title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
