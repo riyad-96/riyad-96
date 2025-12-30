@@ -59,20 +59,19 @@
   </a>
 </p>
 
----
+<!-- --- -->
 
-### Stats
+<!-- ### Stats
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-  <img width="420" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-</picture>
-
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+    <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
+    <img width="420" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
+  </picture>
+</div> -->
