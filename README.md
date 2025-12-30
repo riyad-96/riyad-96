@@ -12,8 +12,9 @@
 
 #### ⚡ Current Experiments
 
-- ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>.
-- ✅ Built <a title="KitzoBazar" href="https://kitzobazar.vercel.app" target="_blank">KitzoBazar</a>, bazar list calculator and session history can be saved in database.
+- ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
+- ✅ Built <a title="CodexSnip" href="https://codexsnip.vercel.app" target="_blank">CodexSnip</a>, favorite code snippets are securely stored in a folder-based vault
+- ✅ Built <a title="BazarioX" href="https://bazariox.vercel.app" target="_blank">BazarioX</a>, a bazar list calculator with session history saved to the database
 - ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
 - 🕒 Working on a full-stack real time chat application.
 
