@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img width="100%" src="./banner-rounded.png">
 
 <h1 align="center">It's Riyad Hasan</h1>
 <h3 align="center">A Fullstack webdev (processing)</h3>
