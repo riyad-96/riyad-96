@@ -1,3 +1,5 @@
+<img src="./banner.png">
+
 <h1 align="center">It's Riyad Hasan</h1>
 <h3 align="center">A Fullstack webdev (processing)</h3>
 
