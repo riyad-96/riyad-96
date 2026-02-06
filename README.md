@@ -17,7 +17,6 @@
 - ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
 - ✅ Built <a title="CodexSnip" href="https://codexsnip.vercel.app" target="_blank">CodexSnip</a>, favorite code snippets are securely stored in a folder-based vault
 - ✅ Built <a title="BazarioX" href="https://bazariox.vercel.app" target="_blank">BazarioX</a>, a bazar list calculator with session history saved to the database
-- ✅ Built <a title="ZeroIDE" href="https://zero-ide.vercel.app" target="_blank">ZeroIDE</a>, a minimal in-browser code editor.
 - 🕒 Working on a full-stack real time chat application.
 
 ---
@@ -30,24 +29,24 @@
   <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>&nbsp;&nbsp;
   <img title="Tailwindcss" src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="TailwindCSS"/>&nbsp;&nbsp;
   <img title="NPM" src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM"/>&nbsp;&nbsp;
-  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
-</p>
-
-### Learing
-
-<P style="display: flex;">
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>&nbsp;&nbsp;
   <img title="ReactJS" src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS"/>&nbsp;&nbsp;
   <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
   <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
 </p>
 
-### Targets
+### Learning
 
-<p style="display: flex;">
+<P style="display: flex;">
   <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>&nbsp;&nbsp;
   <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
+
+<!-- ### Targets
+
+<p style="display: flex;">
+</p> -->
 
 ---
 
@@ -61,20 +60,3 @@
     <img title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
-<!-- --- -->
-
-<!-- ### Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-    <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=riyad-96&theme=default&show_icons=true&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-    <img width="420" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-96&theme=light&hide_border=true" />
-  </picture>
-</div> -->
