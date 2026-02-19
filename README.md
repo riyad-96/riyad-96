@@ -3,21 +3,20 @@
 <h1 align="center">It's Riyad Hasan</h1>
 <h3 align="center">A Fullstack webdev (processing)</h3>
 
-<p align="center" >🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
-💻 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
+<p align="center" >Self-taught web developer from Bangladesh, learning every day and building cool things.
+I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
 #### ⚡ On going
 
-- ✅ Diving deep into advance <strong>JavaScript</strong> concepts.
-- ✅ Improving <strong>React</strong> skills
-- ✅ Getting into custom authentication.
+- Diving deep into advance <strong>JavaScript</strong> concepts.
+- Improving <strong>React</strong> skills
+- Getting into custom authentication.
 
 #### ⚡ Current Experiments
 
-- ✅ Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
-- ✅ Built <a title="CodexSnip" href="https://codexsnip.vercel.app" target="_blank">CodexSnip</a>, favorite code snippets are securely stored in a folder-based vault
-- ✅ Built <a title="BazarioX" href="https://bazariox.vercel.app" target="_blank">BazarioX</a>, a bazar list calculator with session history saved to the database
-- 🕒 Working on a full-stack real time chat application.
+- Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
+- Built <a title="CodexSnip" href="https://codexsnip.vercel.app" target="_blank">CodexSnip</a>, favorite code snippets are securely stored in a folder-based vault
+- Built <a title="BazarioX" href="https://bazariox.vercel.app" target="_blank">BazarioX</a>, a bazar list calculator with session history saved to the database
 
 ---
 
