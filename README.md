@@ -6,13 +6,13 @@
 <p align="center" >Self-taught web developer from Bangladesh, learning every day and building cool things.
 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
-#### ⚡ On going
+#### On going
 
 - Diving deep into advance <strong>JavaScript</strong> concepts.
 - Improving <strong>React</strong> skills
 - Getting into custom authentication.
 
-#### ⚡ Current Experiments
+#### Current Experiments
 
 - Published small npm utility called <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
 - Built <a title="CodexSnip" href="https://codexsnip.vercel.app" target="_blank">CodexSnip</a>, favorite code snippets are securely stored in a folder-based vault
