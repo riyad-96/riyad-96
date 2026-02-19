@@ -1,7 +1,7 @@
 <img width="100%" src="./banner-rounded.png">
 
 <h1 align="center">It's Riyad Hasan</h1>
-<h3 align="center">A Fullstack webdev (processing)</h3>
+<h3 align="center">A Junior MERN-stack webdev</h3>
 
 <p align="center" >Self-taught web developer from Bangladesh, learning every day and building cool things.
 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
