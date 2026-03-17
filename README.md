@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://riyad-devfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=react" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
 ---
-
-### 📊 GitHub Stats
+g
+### GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -51,7 +51,7 @@ I love working with <strong>JavaScript, React, TailwindCSS</strong> to create cl
 
 ---
 
-### 🚀 Now & Next
+### Now & Next
 
 #### On going
 - Diving deep into advance <strong>JavaScript</strong> concepts.
@@ -64,7 +64,7 @@ I love working with <strong>JavaScript, React, TailwindCSS</strong> to create cl
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Frontend
 <p style="display: flex;">
@@ -92,7 +92,7 @@ I love working with <strong>JavaScript, React, TailwindCSS</strong> to create cl
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p>
   <a href="https://riyad-devfolio.vercel.app">
