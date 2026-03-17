@@ -54,9 +54,7 @@ g
 ### Now & Next
 
 #### On going
-- Diving deep into advance <strong>JavaScript</strong> concepts.
 - Improving <strong>React</strong> skills
-- Getting into custom authentication.
 
 #### Current Experiments
 - Published <a title="kitzo, light-weight usefull utility" href="https://www.npmjs.com/package/kitzo" target="_blank">kitzo</a>, a lightweight and useful utility library.
