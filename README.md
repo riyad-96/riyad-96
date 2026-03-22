@@ -12,8 +12,6 @@
 <p align="center" >Self-taught web developer from Bangladesh, learning every day and building cool things.
 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
----
-
 ### GitHub Stats
 
 <div align="center">
