@@ -13,7 +13,7 @@
 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
 
 ---
-g
+
 ### GitHub Stats
 
 <div align="center">
