@@ -73,7 +73,6 @@ I love working with <strong>JavaScript, React, TailwindCSS</strong> to create cl
 
 #### Backend & Tools
 <p style="display: flex;">
-  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
   <img title="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS"/>&nbsp;&nbsp;
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>&nbsp;&nbsp;
   <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>&nbsp;&nbsp;
@@ -82,6 +81,7 @@ I love working with <strong>JavaScript, React, TailwindCSS</strong> to create cl
 
 #### Learning
 <P style="display: flex;">
+  <img title="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>&nbsp;&nbsp;
   <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>&nbsp;&nbsp;
   <img title="NextJS" src="https://skillicons.dev/icons?i=next" height="40" alt="NextJS"/>
 </p>
